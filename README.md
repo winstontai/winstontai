@@ -20,7 +20,7 @@ location:    Singapore 🇸🇬
 interests:   [data science, machine learning, web3, civic tech]
 currently:   building tools that solve real Singapore problems
 philosophy:  "ship small things that actually help people"
-fun_fact:    I optimize carpark fees for fun 🚗
+fun_fact:    I was paid to play games before
 ```
 
 ---
@@ -84,13 +84,14 @@ fun_fact:    I optimize carpark fees for fun 🚗
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/ajunhoa/SC1015-Mini-Project-FCS4-Team-1">HDB Resale Price Predictor</a></h3>
-      <p><b>ML models to predict Singapore HDB resale flat prices</b></p>
-      <p>Benchmarked 12 regression models (Linear, Random Forest, XGBoost, LightGBM, CatBoost, SVR, SARIMAX…) on data.gov.sg resale data, adjusted for RPI inflation. My contributions: EDA, SARIMAX, SVR, hyperparameter tuning.</p>
+      <h3>🛡️ <a href="https://github.com/winstontai/gapguard">Gap Guard</a></h3>
+      <p><b>Overnight & weekend gap-risk hedging for real stock portfolios on Solana</b></p>
+      <p>Tracks tokenized xStocks trading 24/7 while the NYSE is closed, alerts when they drift from the last close, and hedges with real on-chain Kamino shorts sold via Jupiter. Backtested on 248 close→open windows: called the opening direction 81% of the time. Runs as a local dashboard and Telegram bot, verified end to end on a mainnet fork. Built for the Stocklana hackathon.</p>
       <p>
-        <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SARIMAX-150458?style=flat-square" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Kamino-0B1F3A?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
